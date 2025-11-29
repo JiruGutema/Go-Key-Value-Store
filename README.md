@@ -1,4 +1,4 @@
-# 6) Reflection report 
+# Reflection report 
 
 **Concurrency model**
 
